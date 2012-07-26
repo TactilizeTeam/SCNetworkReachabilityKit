@@ -10,7 +10,7 @@
 		783DAD12157791C100BA8C4D /* VersioningTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 783DAD11157791C100BA8C4D /* VersioningTests.m */; };
 		783DAD13157791C100BA8C4D /* VersioningTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 783DAD11157791C100BA8C4D /* VersioningTests.m */; };
 		783DAD161577938500BA8C4D /* Versioning.h in Headers */ = {isa = PBXBuildFile; fileRef = 783DAD141577938500BA8C4D /* Versioning.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		783DAD171577938500BA8C4D /* Versioning.h in Headers */ = {isa = PBXBuildFile; fileRef = 783DAD141577938500BA8C4D /* Versioning.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		783DAD171577938500BA8C4D /* Versioning.h in Headers */ = {isa = PBXBuildFile; fileRef = 783DAD141577938500BA8C4D /* Versioning.h */; settings = {ATTRIBUTES = (); }; };
 		783DAD181577938500BA8C4D /* Versioning.m in Sources */ = {isa = PBXBuildFile; fileRef = 783DAD151577938500BA8C4D /* Versioning.m */; };
 		783DAD191577938500BA8C4D /* Versioning.m in Sources */ = {isa = PBXBuildFile; fileRef = 783DAD151577938500BA8C4D /* Versioning.m */; };
 		78A39FA913F94C9E00A856E2 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78A39FA813F94C9E00A856E2 /* Cocoa.framework */; };
@@ -32,10 +32,10 @@
 		78C9F2B614029AFD000F99CC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C9F2A514029AFD000F99CC /* Foundation.framework */; };
 		78C9F2C114029AFE000F99CC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 78C9F2BF14029AFE000F99CC /* InfoPlist.strings */; };
 		78C9F2CC14029C47000F99CC /* SCNetworkReachabilityKitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 78A39FCC13F94C9E00A856E2 /* SCNetworkReachabilityKitTests.m */; };
-		78C9F2CD14029C52000F99CC /* SCNetworkReachabilityKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 78C9F25514026297000F99CC /* SCNetworkReachabilityKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		78C9F2CE14029C52000F99CC /* SCNetworkReachability.h in Headers */ = {isa = PBXBuildFile; fileRef = 78A39FD613F94D2100A856E2 /* SCNetworkReachability.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		78C9F2CD14029C52000F99CC /* SCNetworkReachabilityKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 78C9F25514026297000F99CC /* SCNetworkReachabilityKit.h */; settings = {ATTRIBUTES = (); }; };
+		78C9F2CE14029C52000F99CC /* SCNetworkReachability.h in Headers */ = {isa = PBXBuildFile; fileRef = 78A39FD613F94D2100A856E2 /* SCNetworkReachability.h */; settings = {ATTRIBUTES = (); }; };
 		78C9F2CF14029C52000F99CC /* SCNetworkReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 78A39FD713F94D2100A856E2 /* SCNetworkReachability.m */; };
-		78C9F2D014029C52000F99CC /* SCNetworkReachabilityFlags.h in Headers */ = {isa = PBXBuildFile; fileRef = 78A39FD913F94D2100A856E2 /* SCNetworkReachabilityFlags.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		78C9F2D014029C52000F99CC /* SCNetworkReachabilityFlags.h in Headers */ = {isa = PBXBuildFile; fileRef = 78A39FD913F94D2100A856E2 /* SCNetworkReachabilityFlags.h */; settings = {ATTRIBUTES = (); }; };
 		78C9F2D114029C52000F99CC /* SCNetworkReachabilityFlags.c in Sources */ = {isa = PBXBuildFile; fileRef = 78A39FD813F94D2100A856E2 /* SCNetworkReachabilityFlags.c */; };
 		78C9F2D514029CBF000F99CC /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C9F2D414029CBF000F99CC /* SystemConfiguration.framework */; };
 		78C9F2D614029D00000F99CC /* libSCNetworkReachabilityKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C9F2A414029AFD000F99CC /* libSCNetworkReachabilityKit.a */; };
